@@ -1,0 +1,13 @@
+This project includes files from:
+
+  YigitMusstafa/rhyx-m21-45-esp32-cam-web-server-code
+  https://github.com/YigitMusstafa/rhyx-m21-45-esp32-cam-web-server-code
+
+which are based on the CameraWebServer example from Espressif's arduino-esp32:
+
+  Copyright 2015-2016 Espressif Systems (Shanghai) PTE LTD
+  Licensed under the Apache License, Version 2.0
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Files: esp32cam_telegram/app_httpd.cpp, camera_index.h, camera_pins.h,
+board_config.h, partitions.csv (included unchanged).
